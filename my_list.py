@@ -16,5 +16,5 @@ my_list.sort() #sorting in ascending order
 
 index_30 = my_list.index(30) #finding the index of element 30
 print("Index of 30:", index_30)
-
-print("Final list:", my_list)
+ x
+print("Final list:", my_list) 
