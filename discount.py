@@ -17,4 +17,4 @@ if discount_percentage >= 20:
 
 else:
 
-   print(f"No discount applied. The price remains: {final_price}")
+   print(f"No discount applied. The price remains: {final_price}")# python-wk3
